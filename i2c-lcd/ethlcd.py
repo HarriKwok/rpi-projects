@@ -3,6 +3,7 @@
 import drivers
 import requests
 import ethlcd_config
+import sys
 from requests.exceptions import HTTPError
 
 from time import sleep
